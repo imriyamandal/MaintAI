@@ -6,7 +6,6 @@
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-v4-38B2AC.svg)](https://tailwindcss.com/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-3.2-FF6600.svg)](https://xgboost.readthedocs.io/)
 [![SHAP](https://img.shields.io/badge/SHAP-XAI-brightgreen.svg)](https://shap.readthedocs.io/)
-[![Hackathon](https://img.shields.io/badge/NIT_Jamshedpur-PS--19-red.svg)](#)
 
 > **Tagline:** Detect → Predict → Explain → Prescribe  
 > **Problem Statement (PS-19):** Machine Learning for Equipment Health Monitoring  
